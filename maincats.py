@@ -3,3 +3,4 @@ class Cat:
         self.name = name
         self.gender = gender
         self.age = age
+        
